@@ -153,6 +153,7 @@ toml==0.10.2
 tornado==6.4.2
 tqdm==4.67.1
 traitlets==5.14.3
+trulens-apps-langchain==1.4.7
 trulens-core==1.4.7
 trulens-dashboard==1.4.7
 trulens-feedback==1.4.7
