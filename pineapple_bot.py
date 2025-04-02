@@ -11,7 +11,7 @@ tru = Tru()
 tru.reset_database()
 
 # Load environment variables
-os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
+#os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 os.environ["HUGGINGFACE_API_KEY"] = st.secrets["HUGGINGFACE_API_KEY"]
 
 # Build LLM chain
